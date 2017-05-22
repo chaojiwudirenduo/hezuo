@@ -1,0 +1,167 @@
+body{
+    color: white;
+    font-family: "苹方 中等";
+}
+header{
+    height:1.28rem;
+    width: 100%;
+    background: #fc313a;
+    line-height: 1.28rem;
+
+}
+header .main{
+    width: 7.02rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+header .iconfont{
+    color: white;
+
+}
+header .icon-jiantouzuo{
+    font-size: 0.52rem;
+}
+header .join{
+    width: 2rem;
+    height: 100%;
+    text-align: center;
+    color: white;
+    font-size: 0.4rem;
+    float: left;
+}
+.banner{
+    width: 100%;
+    height: 3.55rem;
+    background: url("../img/yh-1.png") center center no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+.banner .yue{
+    width: 4.26rem;
+    height: 1.69rem;
+    position: absolute;
+    left: 0;
+    right:0;
+    top:0;
+    bottom: 0;
+    margin: auto;
+    border: 0.02rem solid white;
+    text-align: center;
+    color: white;
+}
+.banner .yue .yh-p1{
+    font-size: 0.36rem;
+    line-height: 1rem;
+}
+.banner .yue .yh-p2{
+    font-size: 0.28rem;
+}
+section{
+    width: 100%;
+    overflow: hidden;
+}
+section .header{
+    width: 100%;
+    overflow: hidden;
+    float: left;
+    color: black;
+}
+section .header>ul{
+    width: 100%;
+    overflow: hidden;
+    float: left;
+    font-size: 0.3rem;
+
+}
+section .header>ul>li{
+    width: 50%;
+    height: 0.87rem;
+    float: left;
+    text-align: center;
+    line-height: 0.87rem;
+    position: relative;
+}
+section .header>ul>li:last-child{
+    color:#7e7e7e;
+}
+section .header>ul>li .active{
+    width: 100%;
+    height: 0.05rem;
+    background: red;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.mains{
+    width: 100%;
+    overflow: hidden;
+    float: left;
+    padding: 0 0.24rem;
+}
+.mains li{
+    width: 100%;
+    height: 2.49rem;
+    border-top: 0.02rem solid #f5f5f5;
+    float: left;
+}
+.mains li .main-one{
+    width: 0.24rem;
+    height: 0.24rem;
+    border-radius: 50%;
+    background: red;
+   line-height: 0.24rem;
+    font-size: 0.18rem;
+    text-align: center;
+    float: left;
+    margin-top: 0.36rem;
+}
+.mains li .middle{
+    width: 3.8rem;
+    float: left;
+    margin-top: 0.3rem;
+}
+.mains li .middle .yh-p3{
+    color: black;
+    font-weight: 500;
+    font-size: 0.26rem;
+    padding-left: 0.3rem;
+    text-align: left;
+}
+.mains li .middle .yh-p4{
+    color: #b3b3b3;
+    font-weight: 500;
+    font-size: 0.26rem;
+    padding-left: 0.3rem;
+    text-align: left;
+    margin-top: 0.1rem;
+    line-height: 0.43rem;
+}
+.mains li .middle .yh-p4:last-child{
+    margin-top: 0px;
+}
+.mains li .main-img{
+    width: 2.59rem;
+    height: 1.97rem;
+    float: right;
+}
+.mains li .main-img img{
+    width: 100%;
+    height: 100%;
+    float: left;
+    margin-top: 0.3rem;
+}
+footer{
+    width: 100%;
+    height: 0.7rem;
+    float: left;
+    margin-top: 0.24rem;
+    margin-bottom: 0.24rem;
+    background: -webkit-linear-gradient(45deg,#fd323a,#fd7f33);
+    text-align: center;
+    line-height: 0.7rem;
+    font-size: 0.26rem;
+}
+footer span{
+    font-weight: 500;
+}
