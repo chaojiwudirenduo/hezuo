@@ -1,0 +1,245 @@
+body{
+    font-family: 苹方;
+    background: #F5F5F5;
+}
+.header{
+    width: 100%;
+    height: 0.87rem;
+    background: #FC313A;
+    position: relative;
+}
+.jc-fh{
+    width: 0.2rem;
+    height:0.2rem;
+    position: absolute;
+    top:0.32rem;
+    left:0.25rem;
+    font-size: 0.2rem;
+    text-align: center;
+    line-height: 0.2rem;
+    color: #fff;
+}
+.jc-bt{
+    width:1.52rem;
+    height: 0.38rem;
+    position: absolute;
+    top:0.24rem;
+    left: 3.07rem;
+    font-size: 0.38rem;
+    text-align: center;
+    line-height: 0.38rem;
+    color: #fff;
+}
+.jc-next{
+   width: 0.8rem;
+    height:0.2rem;
+    position: absolute;
+    top:0.32rem;
+    right: 0.25rem;
+    font-size: 0.2rem;
+    text-align: center;
+    line-height: 0.2rem;
+    color: #fff;
+}
+.jc-con{
+    width:100%;
+    height:12.09rem;
+}
+.jc-con-left{
+    float: left;
+    width: 50%;
+    height: 0.64rem;
+    font-size: 0.23rem;
+    text-align: center;
+    line-height: 0.64rem;
+    color:#000;
+}
+.jc-con-right{
+    float: left;
+    width: 50%;
+    height: 0.64rem;
+    border-bottom: 0.03rem solid #FC313A;
+    font-size: 0.23rem;
+    text-align: center;
+    line-height: 0.64rem;
+    color:#000;
+    background: #fff;
+}
+.jc-con-main{
+    width:7.32rem;
+    height: 3.22rem;
+    float: left;
+    margin-left: 0.09rem;
+    margin-top: 0.4rem;
+    border-radius: 0.1rem;
+    background: #fff;
+    position: relative;
+    box-shadow: 0.01rem 0.05rem 0.05rem #E0E0E0;
+}
+.jc-tx{
+    width:1.3rem;
+    height:1.3rem;
+    border-radius: 50%;
+    position: absolute;
+    top:-0.34rem;
+    left: 0.18rem;
+    background: #fff;
+}
+.jc-img{
+    display: block;
+    width: 1.2rem;
+    height: 1.2rem;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.jc-xinxi{
+    width:1.4rem;
+    height:0.3rem;
+    float: left;
+    margin-top: 0.28rem;
+    margin-left:1.78rem;
+    font-size: 0.3rem;
+    text-align: center;
+    line-height: 0.3rem;
+    color:#000;
+}
+.jc-xinxi p{
+    display: block;
+    width: 0.6rem;
+    height:100%;
+    float: left;
+}
+.jc-xb{
+    width: 0.8rem;
+    height: 100%;
+    float: left;
+}
+.jc-ex{
+    width:0.24rem;
+    height: 0.24rem;
+    border-radius: 0.05rem;
+    background: #8BC9F5;
+    text-align: center;
+    line-height: 0.24rem;
+    font-size: 0.18rem;
+    float: left;
+    margin-top: 0.05rem;
+    margin-left: 0.1rem;
+    color: #fff;
+}
+.jc-v{
+    float: left;
+    margin-left: 0.1rem;
+    font-size: 0.18rem;
+    width:0.24rem;
+    height: 0.24rem;
+    border-radius: 0.05rem;
+    background: #FCC465;
+    text-align: center;
+    margin-top: 0.05rem;
+    line-height: 0.24rem;
+    color: #fff;
+}
+.jc-main-bot{
+    width:7.02rem;
+    height:2.1rem;
+    float: left;
+    margin-left: 0.3rem;
+    /*border-radius: 0.1rem;*/
+    border-top: 0.01rem solid #ECECEC;
+    margin-top: 0.52rem;
+}
+.jc-bot1{
+    width:2.92rem;
+    height:0.35rem;
+    float: left;
+}
+.jc-time{
+    width: 0.16rem;
+    height:0.16rem;
+    float: left;
+    margin-top: 0.1rem;
+    color: #9F9087;
+}
+.jc-bot1z{
+    width: 2.5rem;
+    height:0.35rem;
+    float: left;
+    margin-left: 0.2rem;
+    text-align: center;
+    line-height: 0.6rem;
+    font-size: 0.25rem;
+    color: #000;
+}
+.jc-bot2{
+    width: 4.4rem;
+    height:0.26rem;
+    float: left;
+    margin-top: 0.25rem;
+}
+.jc-bot3{
+    width: 4.4rem;
+    height:0.26rem;
+    float: left;
+    margin-top: 0.2rem;
+}
+.jc-cir1{
+    width: 0.16rem;
+    height:0.16rem;
+    float: left;
+    margin-top: 0rem;
+    color: #6BC18D;
+}
+.jc-cir2{
+    width: 0.16rem;
+    height:0.16rem;
+    float: left;
+    margin-top: 0rem;
+    color: #F89569;
+}
+.jc-bot1z1{
+    width:3.8rem;
+    height: 0.26rem;
+    float: left;
+    margin-top: 0.03rem;
+    margin-left: 0.2rem;
+    text-align: center;
+    line-height: 0.26rem;
+    font-size: 0.25rem;
+    color: #535353;
+}
+.jc-bot1z2{
+    width:3.8rem;
+    height: 0.26rem;
+    float: left;
+    margin-top: 0.03rem;
+    margin-left: 0.04rem;
+    text-align: left;
+    line-height: 0.26rem;
+    font-size: 0.25rem;
+    color: #535353;
+}
+.jc-bot4{
+    width:2.9rem;
+    height:0.35rem;
+    float: left;
+    margin-top: 0.3rem;
+    text-align: center;
+    line-height: 0.35rem;
+    font-size: 0.25rem;
+    color: #535353;
+}
+.jc-end{
+    width:7rem;
+    height:0.7rem;
+    position: fixed;
+    left: 0.24rem;
+    bottom: 0.3rem;
+    text-align: center;
+    line-height: 0.7rem;
+    font-size: 0.25rem;
+    border-radius: 0.1rem;
+    /*background: red;*/
+    color: #fff;
+    background:-webkit-linear-gradient(left,#FD353A,#FD7334);
+}
