@@ -1,0 +1,152 @@
+body{
+    font-family: "苹方 中等";
+}
+.cc_toubu{
+    width: 100%;
+    height:0.87rem;
+    background: #fc313a;
+    position: relative;
+    text-align: center;
+    line-height: 0.87rem;
+    font-size: 0.4rem;
+    font-weight: 600;
+    color: #fff;
+}
+.cc_box1{
+    width: 0.4rem;
+    height:100%;
+    position: absolute;
+    left: 0.2rem;
+    top: 0;
+    bottom:0;
+    margin: auto;
+    display: block;
+}
+.cc_box2{
+    width: 0.4rem;
+    height:100%;
+    position: absolute;
+    right:0.23rem;
+    display: block;
+    top: 0;
+    bottom:0;
+    margin: auto;
+}
+.cc_a:before{
+    width: 0.25rem;
+    height:0.25rem;
+    display: block;
+}
+.cc_b{
+    width: 0.4rem;
+    height:0.4rem;
+    display: block;
+}
+.cc_toubuxia{
+    width:100%;
+    height: 0.75rem;
+    text-align: center;
+    line-height: 0.75rem;
+    font-size: 0.24rem;
+    color: #202020;
+    border-bottom: 0.01rem solid #f9f9f9;
+}
+.cc_toubuxia1{
+    width: 100%;
+    height:0.9rem;
+    padding-left: 0.25rem;
+    line-height: 0.9rem;
+    font-size: 0.26rem;
+    color: #4E4C4D;
+    font-weight: 400;
+}
+.cc_shenfen{
+    width: 100%;
+    height:2.72rem;
+    border-bottom: 0.01rem solid #f9f9f9;
+    padding-left: 0.25rem;
+}
+.cc_shenfen1{
+    width: 3.03rem;
+    height:100%;
+    float: left;
+}
+.cc_shenfen1 img{
+    width: 3.03rem;
+    height:2.38rem;
+    display: block;
+}
+.cc_shenfen2{
+    width: 3.92rem;
+    height:100%;
+    float: right;
+    font-size: 0.26rem;
+    line-height: 0.4rem;
+    color: #D7D7D7;
+    position: relative;
+}
+.cc_shenfen3{
+    width: 1.79rem;
+    height: 0.76rem;
+    background: #FC313A;
+    border-radius: 0.06rem;
+    text-align: center;
+    line-height: 0.76rem;
+    font-size: 0.26rem;
+    color: #fff;
+    position: absolute;
+    bottom: 0.32rem;
+    left: 0;
+}
+.cc_shenfen4{
+    width: 7rem;
+    height:0.75rem;
+    border-bottom: 0.01rem solid #f9f9f9;
+    line-height: 0.75rem;
+    font-size: 0.24rem;
+    color: #2F2F2F;
+    margin: 0 0.25rem;
+    position: relative;
+}
+.cc_xian1{
+    width: 0.08rem;
+    height:0.01rem;
+    background: #BFBFBF;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.cc_xian2{
+    width: 0.08rem;
+    height:0.01rem;
+    background: #BFBFBF;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.cc_baitiao{
+    height:0.3rem;
+    background: #F7F7F7;
+}
+.cc_dibu{
+    width: 100%;
+    height:1.3rem;
+    background: #F7F7F7;
+    position: relative;
+}
+.cc_di1{
+    width: 7.03rem;
+    height:0.7rem;
+    border-radius: 6px;
+    text-align: center;
+    line-height: 0.7rem;
+    font-size: 0.26rem;
+    color: #fff;
+    background: -webkit-linear-gradient(left,#fd353a,#fd7334);
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right:0;
+    margin: auto;
+}
